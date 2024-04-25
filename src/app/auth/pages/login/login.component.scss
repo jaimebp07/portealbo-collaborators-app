@@ -1,0 +1,17 @@
+div {
+    width: 100%;
+    height: 100vh;
+    background-color: #FFF5DA;
+
+    & img {
+        width: 50%;
+        margin: 100px 25% 10px 25%;
+    }
+
+    & input {
+        border-radius: 8px;
+        height: 30px;
+        width: 80%;
+        
+    }
+}
